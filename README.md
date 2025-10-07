@@ -6,7 +6,7 @@ It allows users to register, log in securely with **JWT authentication**, and ge
 ---
 
 ## 🚀 Live Demo
-👉 [View Live App](https://your-vercel-link.vercel.app)
+👉 [View Live App](https://password-generator-sigma-gray-78.vercel.app)
 
 
 ---
