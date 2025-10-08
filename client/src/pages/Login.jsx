@@ -56,7 +56,7 @@ const Login = () => {
 
           <button
             type="submit"
-            className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition"
+            className="w-full cursor-pointer bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition"
           >
             Login
           </button>
@@ -66,7 +66,7 @@ const Login = () => {
 
         <button
           onClick={() => navigate("/signup")}
-          className="w-full mt-4 text-blue-600 underline"
+          className="w-full mt-4 text-blue-600 cursor-pointer underline"
         >
           Create new account
         </button>

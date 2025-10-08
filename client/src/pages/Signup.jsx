@@ -55,7 +55,7 @@ const Signup = () => {
 
           <button
             type="submit"
-            className="w-full bg-green-600 text-white py-2 rounded hover:bg-green-700 transition"
+            className="w-full bg-green-600 cursor-pointer text-white py-2 rounded hover:bg-green-700 transition"
           >
             Sign Up
           </button>
@@ -65,7 +65,7 @@ const Signup = () => {
 
         <button
           onClick={() => navigate("/login")}
-          className="w-full mt-4 text-green-600 underline"
+          className="w-full mt-4 text-green-600 cursor-pointer underline"
         >
           Already have an account? Login
         </button>

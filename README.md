@@ -8,7 +8,6 @@ It allows users to register, log in securely with **JWT authentication**, and ge
 ## 🚀 Live Demo
 👉 [View Live App](https://your-vercel-link.vercel.app)
 
-*(Replace this link with your actual deployed Vercel link)*
 
 ---
 
